@@ -15,7 +15,7 @@ The measurement are made through two sensors hooked to I2C line:
 ### Sensor connection to ESP_32
 
 <!--![sensor_connections](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/f3f5fd03-9fae-4578-afad-f89bc2c3a3bf)-->
-<img src="https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/f3f5fd03-9fae-4578-afad-f89bc2c3a3bf" width="200"/>
+<img src="https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/f3f5fd03-9fae-4578-afad-f89bc2c3a3bf" width="600"/>
 
 
 ### Tables with metric reference:  
