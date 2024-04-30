@@ -12,7 +12,15 @@ The measurement are made through two sensors hooked to I2C line:
     - room temperature,
     - relative humidity,
 
+### Sensor connection to ESP_32
+
+<!--![sensor_connections](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/f3f5fd03-9fae-4578-afad-f89bc2c3a3bf)-->
+<img src="https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/f3f5fd03-9fae-4578-afad-f89bc2c3a3bf" width="200"/>
+
+
 ### Tables with metric reference:  
 ![AQ_output_characteristic](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/87f38750-e519-4ae5-9a89-295a61460a9b)
  
 ![AQI_index_table](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21/assets/47086490/6e4fc663-ea0d-4533-bf13-ee79a424bc00)
+
+
