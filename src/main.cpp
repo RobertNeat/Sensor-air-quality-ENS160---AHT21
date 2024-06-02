@@ -101,3 +101,13 @@ void loop() {
   delay(1000);
 
 }
+
+
+/*
+Temperature: 28 degrees C
+Humidity: 55% rH
+AQI: 1
+TVOC: 27ppb
+eCO2: 409ppm
+
+*/
